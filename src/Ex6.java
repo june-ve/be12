@@ -5,7 +5,7 @@ public class Ex6 {
                 if(one+two==6){
                     System.out.println(one+"+"+two+"="+(one+two));
                 }
-            }q
+            }
         }
     }
 }
